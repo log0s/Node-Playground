@@ -1,3 +1,3 @@
-var server = require('test-server');
+var server = require('./test-server');
 
 server.init();
